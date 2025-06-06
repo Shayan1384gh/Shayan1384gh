@@ -1,26 +1,27 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Shayan</h1>
-<h3 align="center">A passionate Frontend Developer from Iran 🇮🇷</h3>
+<h3 align="center">Frontend Developer | Python Lover | Web Security Enthusiast 🕵️‍♂️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Web%20Designer;Tailwind%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Frontend+Developer;Python+Programmer;Learning+OWASP+%26+Burp+Suite;Always+Exploring+Cybersecurity+%F0%9F%94%91" />
 </p>
 
 ---
 
-### 🧠 About Me:
+### 💻 About Me
 
-- 🔭 I’m currently learning React.js
-- 🌱 I’m improving my JavaScript and UI/UX skills
-- 📫 How to reach me: shayan.yourmail@example.com
-- ⚡ Fun fact: I love nature, music, and creative designs 🌿🎧
+- 🌱 Currently learning OWASP Top 10 & tools like Burp Suite
+- 💻 Comfortable with HTML, CSS, JavaScript, and Python
+- 🔐 Interested in Web Application Security and ethical hacking
+- 📫 Reach me: shayan.yourmail@example.com
+- ⚡ Fun fact: I love clean code and coffee ☕️
 
 ---
 
-### 🛠️ Tech Stack:
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
@@ -28,29 +29,32 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shayan1384gh&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan1384gh&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shayan1384gh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shayan1384gh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🎯 Currently Learning
+### 🛡️ Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,figma" />
+  <img src="https://img.shields.io/badge/OWASP-Top%2010-blueviolet?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Security-Critical-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:shayan.yourmail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/shayan.frontend" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:shayan.yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/shayan.frontend"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
