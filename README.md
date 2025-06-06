@@ -1,44 +1,56 @@
 ## Hi there 👋
-<h1 align="center">سلام، من شایان هستم 👋</h1>
+<h1 align="center">Hi 👋, I'm Shayan</h1>
+<h3 align="center">A passionate Frontend Developer from Iran 🇮🇷</h3>
 
 <p align="center">
-  توسعه‌دهنده فرانت‌اند از ایران 🇮🇷<br>
-  علاقه‌مند به ساخت رابط‌های کاربری زیبا، تمیز و واکنش‌گرا ✨<br>
-  همیشه در حال یادگیری و رشد 🚀
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Web%20Designer;Tailwind%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=380&height=45">
 </p>
 
 ---
 
-### 🛠 مهارت‌ها:
-- HTML5 / CSS3 / JavaScript (ES6+)
-- Tailwind CSS / Bootstrap
-- Git / GitHub
-- در حال یادگیری React.js
+### 🧠 About Me:
+
+- 🔭 I’m currently learning React.js
+- 🌱 I’m improving my JavaScript and UI/UX skills
+- 📫 How to reach me: shayan.yourmail@example.com
+- ⚡ Fun fact: I love nature, music, and creative designs 🌿🎧
 
 ---
 
-### 📈 وضعیت گیت‌هاب من:
+### 🛠️ Tech Stack:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shayan1384gh&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-### 📫 ارتباط با من:
-- ایمیل: shayan.yourmail@example.com
-- اینستاگرام: [@shayan.frontend](https://instagram.com/shayan.frontend)
+### 📈 GitHub Stats
 
-<!--
-**Shayan1384gh/Shayan1384gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shayan1384gh&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan1384gh&theme=radical&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,figma" />
+</p>
+
+---
+
+### 🌐 Connect with Me:
+
+<p align="center">
+  <a href="mailto:shayan.yourmail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/shayan.frontend" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
