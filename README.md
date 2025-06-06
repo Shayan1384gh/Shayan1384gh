@@ -13,8 +13,9 @@
 - 🌱 Currently learning OWASP Top 10 & tools like Burp Suite
 - 💻 Comfortable with HTML, CSS, JavaScript, and Python
 - 🔐 Interested in Web Application Security and ethical hacking
-- 📫 Reach me: shayan.yourmail@example.com
-- ⚡ Fun fact: I love clean code and coffee ☕️
+- 📫 Reach me: github1384gh@gmail.com
+- ⚡ Fun fact: I love nature, music, and creative designs 🌿🎧
+
 
 ---
 
@@ -49,8 +50,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:shayan.yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/shayan.frontend"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:github1384gh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
