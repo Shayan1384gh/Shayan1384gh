@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Shayan</h1>
-<h3 align="center">Frontend Developer | Python Lover | Web Security Enthusiast 🕵️‍♂️</h3>
+<h3 align="center">Frontend Developer | Python Lover</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Frontend+Developer;Learning+Python;Learning+OWASP+%26+Burp+Suite;Always+Exploring+Cybersecurity+%F0%9F%94%91" />
